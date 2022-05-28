@@ -1,4 +1,4 @@
 VHDL教學6－點矩陣LED顯示 8×8LED矩陣
 https://sites.google.com/site/tssheedl01/jiao-xue-dang-an/vhdl-dian-lu-she-ji/vhdljiaoxue6-dianjuzhenledxianshi
-一次亮一列或一欄 → 使用視覺暫留造成同時料的錯覺
+一次亮一列或一欄 ===>>> 使用視覺暫留造成同時亮的錯覺
 Column與Row的電位差促成LED亮
