@@ -1,0 +1,6 @@
+------8×8點矩陣--------
+version 1 : LEDdotmatrix file   ※先網路上觀摩他人程式碼再局部修改 
+version 2 : version2 file       ※延續前面的，但這版專注於先實作範例檔案，先確認燒錄至LP2900(Altera)的實驗結果，再往下修改、回推。
+
+------流星燈--------
+destination : version2 file > meteorLight.zip
