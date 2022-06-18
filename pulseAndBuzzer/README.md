@@ -14,3 +14,4 @@ Reference：
 * <https://zhidao.baidu.com/question/130039974.html?qbl=relate_question_0&word=%B7%E4%C3%F9%C6%F7VHDL%D2%F4%98%B7%B1%E0%B3%CC>
 * <https://zhidao.baidu.com/question/1175585446569011859.html?qbl=relate_question_6&word=%B7%E4%C3%F9%C6%F7VHDL%B1%E0%B3%CC>
 * <https://github.com/elpuri/VHDL-tidbits/blob/master/misc/buzzer.vhdl>
+CPLD數位邏輯設計實務(第二版)
