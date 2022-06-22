@@ -1,4 +1,6 @@
-buzzer and pulse final version is in this file.
+buzzer final version is in this file.  
+
+pulse12, pulse34 don't use because there are something wrong when combined with other component.
 
 The file named buzzerTest are that we tried but failed or didn't use, just for record.
 
